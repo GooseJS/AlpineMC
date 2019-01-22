@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "alpine",
+    "name": "Alpine",
+    "description": "NASM",
+    "version": "a01",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "GooseJS", "Jared" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": []
+  }
+]
